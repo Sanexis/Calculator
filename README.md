@@ -49,6 +49,11 @@ Production Build
 npm run build
 ```
 
+GitHub Pages load
+```bash
+npm run build
+```
+
 This will:
 
 - Generate minified and optimized assets in the dist/ directory
